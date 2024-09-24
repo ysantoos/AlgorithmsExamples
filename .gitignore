@@ -1,0 +1,48 @@
+# Compilación de archivos
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vs
+
+# Carpertas generadas por el IDE
+.vscode/
+.idea/
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+
+# Log, diseño, debug y archivos temporales
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+*.userprefs
+*.sln.ide
+
+# Archivos de publicación e implementación
+.publish/
+*.deploy.cmd
+*.deploy-readme.txt
+*.pubxml
+*.pubxml.user
+
+# Archivos de Docker
+docker-compose*
+Dockerfile*
+
+# Archivos de entorno local
+.env
+.env.*
+
+# Configuración de los editores de texto
+*.bak
+*.swp
+*.swo
+*~
